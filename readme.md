@@ -17,15 +17,15 @@ This is a template to bundle single web page app and server side code
 `npm install`
 
 ##### Build
-All build files are in `dist` folder
-To build all files once `npm run build`
-Code style check with eslint `npm run lint`
+-  All build files are in `dist` folder
+-  To build all files once `npm run build`
+-  Code style check with eslint `npm run lint`
 
 ##### For development
 You should run 3 seperate terminals
-First to watch client files `npm run dev-client`
-Seconds to watch server files `npm run dev-server` 
-Third to run server (listen on assigned port) `npm run server`
+-  First to watch client files `npm run dev-client`
+-  Seconds to watch server files `npm run dev-server` 
+-  Third to run server (listen on assigned port) `npm run server`
 
 ##### Production
 `npm run build-prod`
